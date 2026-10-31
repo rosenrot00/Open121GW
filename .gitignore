@@ -1,0 +1,16 @@
+.DS_Store
+.venv*/
+build/
+__pycache__/
+*.pyc
+*.o
+*.elf
+*.map
+*.bin
+*.i64
+*.idb
+*.i64.*
+dumps/
+.env
+.env.*
+!.env.example

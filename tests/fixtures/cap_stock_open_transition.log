@@ -1,0 +1,5 @@
+# Reduced from the stock SCAP capture with the input open.
+@@ 00000.000 SCAP m=0C r=01 st=01 r1e=01 r1f=01 r20=76 r29=00 cnt=0018AB89 ref=00000001 wrap=0011859B el=0031859B tw=E000 raw=00002A64 val=00002A63 ticks=00C7 tc=0001 fl=00 h=00
+@@ 00001.505 SCAP m=0C r=01 st=01 r1e=01 r1f=01 r20=76 r29=00 cnt=0018AAFB ref=00000001 wrap=00118591 el=00318591 tw=E000 raw=00002A63 val=00002A63 ticks=00C3 tc=0005 fl=00 h=00
+@@ 00002.605 SCAP m=0C r=00 st=01 r1e=01 r1f=01 r20=76 r29=00 cnt=0015D5B3 ref=0000003C wrap=00003AD9 el=00203AD9 tw=E000 raw=00000077 val=00000000 ticks=00C6 tc=0002 fl=00 h=00
+@@ 00003.105 SCAP m=0C r=00 st=01 r1e=01 r1f=01 r20=76 r29=00 cnt=00103A29 ref=0000005F wrap=00003CDB el=00203CDB tw=E000 raw=000000E8 val=000000E8 ticks=00C2 tc=0007 fl=00 h=00

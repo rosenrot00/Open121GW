@@ -1,0 +1,6 @@
+# Captured from the task firmware after a full physical P10 MODE cycle.
+@@ 00000.000 UOHMD m=09 r=04 st=04 raw=00000180 inst=00000002 disp=00000000 ax=02 af=05 at=04 aa=00000002 dc=00 ph=00 rs=0002 fp=FFFFFFFF
+@@ 00000.202 UOHMD m=09 r=03 st=04 raw=00000358 inst=0000000A disp=00000000 ax=02 af=04 at=03 aa=0000000A dc=00 ph=00 rs=0003 fp=FFFFFFFF
+@@ 00000.302 UOHMD m=09 r=01 st=04 raw=00012B60 inst=000003F7 disp=00000000 ax=02 af=02 at=01 aa=000003F7 dc=00 ph=00 rs=0005 fp=FFFFFFFF
+@@ 00000.402 UOHMD m=09 r=01 st=04 raw=000B90E0 inst=00002776 disp=00002776 ax=02 af=02 at=01 aa=000003F7 dc=01 ph=02 rs=0005 fp=FFFFFFFF
+@@ 00000.602 UOHMD m=09 r=01 st=04 raw=000B8E60 inst=0000276D disp=0000276D ax=00 af=01 at=01 aa=00002772 dc=01 ph=02 rs=0005 fp=000002E9
