@@ -7,6 +7,8 @@ firmware.
 
 [Download firmware](https://github.com/rosenrot00/Open121GW/releases/tag/development-2026-07-23)
 
+[EEVBlog Discussion](https://www.eevblog.com/forum/blog/eevblog-1783-can-ai-reverse-engineer-the-121gw-multimeter-firmware/)
+
 ## Implemented Functionality
 
 - Resistance, capacitance, continuity and diode measurements.
